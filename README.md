@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manoj12-king
+- 👋 Hi, I’m @shark
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web develoment
 - 💞️ I’m looking to collaboratefrom inspiring code sources
